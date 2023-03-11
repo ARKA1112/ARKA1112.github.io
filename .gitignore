@@ -7,7 +7,8 @@
 !.commitlintrc.json
 !.versionrc.json
 !.stylelintrc.json
-
+!.IMG20220829215045.jpg
+!.images
 # bundler cache
 _site
 vendor
