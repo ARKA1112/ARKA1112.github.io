@@ -21,7 +21,7 @@ timezone: Asia/Kolkata
 
 title: Arka                          # the main title
 
-tagline: AI/ML enthusiast, Using ML to build products that empowers growth.   # it will display as the sub-title
+tagline: AI/ML enthusiast.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
