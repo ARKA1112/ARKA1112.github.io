@@ -14,7 +14,7 @@
 _site
 vendor
 Gemfile.lock
-
+codes
 # rubygem
 *.gem
 
